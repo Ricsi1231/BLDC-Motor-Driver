@@ -1,0 +1,7 @@
+@"
+# Ignore the History folder
+History/
+
+# Ignore the Project Logs folder
+Project Logs for BLDC Motor Driver/
+"@ | Out-File -Encoding utf8 .gitignore

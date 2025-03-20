@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB.GBR   17/03/2025  16:38:51
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                L1 [SIG/PWR]                            
+.gbr                L2 [GND]                                
+.gbr                L3 [PWR]                                
+.gbr                L4 [SIG/PWR]                            
+.gbr                L5 [GND]                                
+.gbr                L6 [SIG/PWR]                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Top Overlay                             
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Mechanical 1                            
+.gbr                Mechanical 3                            
+.gbr                Mechanical 13                           
+.gbr                Mechanical 15                           
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------
